@@ -31,7 +31,7 @@ microservices:
   version: 1.1
 ```
 - Strings
-  ```
+```
 location: westeurope
 acccountname: 'accountant'
 scriptlocation: "inlineScript"
@@ -39,7 +39,7 @@ testcontent: |
     First line
     second line
     third line
-  ```
+```
 - Variables
 ```
 variables:
