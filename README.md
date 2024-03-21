@@ -2,6 +2,8 @@
 
 ```mermaid
 graph TD;
-    pipeline-->classic pipeline;
-    pipeline-->YAML pipeline;
+    pipeline-->classic_pipeline;
+    pipeline-->YAML_pipeline;
 ```
+
+
